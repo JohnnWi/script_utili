@@ -1,14 +1,3 @@
-Perfetto! Ecco un **README.md completo e pronto per GitHub**, con badge, tabella dei contenuti cliccabile e descrizioni dettagliate per ogni script:
-
-````markdown
-# Multimedia Utility Scripts
-
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
-[![PyPI](https://img.shields.io/pypi/v/Pillow)](https://pypi.org/project/Pillow/)
-[![PyPI](https://img.shields.io/pypi/v/pillow-heif)](https://pypi.org/project/pillow-heif/)
-[![PyPI](https://img.shields.io/pypi/v/prettytable)](https://pypi.org/project/prettytable/)
-[![PyPI](https://img.shields.io/pypi/v/requests)](https://pypi.org/project/requests/)
-[![PyPI](https://img.shields.io/pypi/v/beautifulsoup4)](https://pypi.org/project/beautifulsoup4/)
 
 Questa repository raccoglie una serie di script Python utili per la gestione, organizzazione e analisi di file multimediali, immagini e scraping web.
 
